@@ -1,0 +1,24 @@
+#logo {
+    display: block;
+    margin: auto;
+    width: 40px;
+}
+
+#vid-list li {
+    cursor: pointer;
+}
+
+#vid-list img {
+    margin: 8px;
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+
+#vid-list h3 {
+    margin-left: 10px;
+}
+
+#show-video {
+    width: 100%;
+    margin: 15px 0;
+}
